@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    /*display: flex;*/
+    margin-top: 3rem;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  } 
+
+.carousel-image{
+  height: 200px;
+  width: 550px;
+}
+
+img{
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
