@@ -1,10 +1,11 @@
 .App {
     font-family: sans-serif;
     /*display: flex;*/
-    margin-top: 3rem;
+    margin-top: 10rem;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    position: fixed;
   } 
 
 .carousel-image{

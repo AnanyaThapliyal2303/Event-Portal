@@ -1,0 +1,21 @@
+.header-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr;
+    padding-left: 3vw;
+    padding-right: 0.2vw;
+    background: #d67d09;
+    height: 16vh;
+    position: fixed;
+    width: 100vw;
+    z-index: 99;
+    margin-top: 0px;
+  }
+  .heading {
+    padding-left: 4%;
+    text-align: left;
+    color: white;
+    font-size:1.3vw;
+    font-weight: 500;
+    width: 100%;
+  }
